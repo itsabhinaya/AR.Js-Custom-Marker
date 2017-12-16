@@ -1,4 +1,4 @@
-# AR.Js Custom-Marker
+# AR.js Custom-Marker
 Basic Code for AR.js Custom Marker
 
 1. Upload the image you want inside the black border [here](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html) (try to avoid white backgrounds).
